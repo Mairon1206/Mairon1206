@@ -13,5 +13,5 @@
 ## 🏃‍♂️ Personal Information
 - 🔭 **Who am I**: a student majoring in Computer Science and Technology at [**NJUPT**](https://www.njupt.edu.cn/).
 - 🌱 **Currently learning**: C, C++, Rust, Java, Linux, DataBase, Network, Distributed
-- 🐧 **OS I use**: Archlinux(workhouse), Debian, Ubuntu, Windows
+- 🐧 **OS I use**: Archlinux(workhouse), Debian, Ubuntu, Windows, macOS
 - 🧊 **Games I play**: Minecraft, Dead Cells, Battlefield and so on
